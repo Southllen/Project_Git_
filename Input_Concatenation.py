@@ -1,0 +1,5 @@
+name1 = input("Who are you?")
+print("Hi,", name1)
+name2 = input("What's your name?")
+print("Nice to meet you,", name2)
+print(name1 + ' and' + name2 + ' ' + 'are' + " " + "friends")
